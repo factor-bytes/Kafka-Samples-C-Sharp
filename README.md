@@ -1,2 +1,2 @@
-# Kafka-Samples
-Kafka Producer, Consumer code samples
+# Confluent Kafka-Samples
+Confluent Kafka Producer, Consumer C# code samples 
